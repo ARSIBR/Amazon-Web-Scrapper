@@ -4,6 +4,8 @@
 
 This project is designed to scrape and track the daily price, ratings, and date for the MacBook Air M2 on Amazon using Python. The collected data will be stored in a CSV file for further analysis and monitoring.
 
+![image](https://github.com/user-attachments/assets/b6f0be12-cb01-4db8-8baf-58221161650e)
+
 ## Features
 
 - Scrapes the current price of the MacBook Air M2.
